@@ -10,7 +10,7 @@
 
 ## Performance Stats
 
-     Performance is exponential, over time it gets much faster on high clock speed machines
+     Performance is near exponential, over time it gets much faster on high clock speed machines
      |
      On AMD Ryzen 9 7950X3D:
         After 20 hours: Speed (Last 10 sec interval): 22,274,018,994.77 addresses/sec
